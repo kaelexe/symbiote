@@ -1,0 +1,13 @@
+node_modules
+dist
+.git
+*.log
+test-results
+playwright-report
+.env
+.env.*
+.opencode
+opencode.json
+opencode.jsonc
+*.pem
+*.key
